@@ -23,16 +23,20 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Pig_(dice_game)):
 
 You will be creating a GUI that allows two people to play Pig.  Here are some things that your GUI should use/do.
 
-* Display `roll.gif` to start the game.
-* Display `hold.gif` when the player decides to hold.
-* Have 2 buttons; one to roll, one to hold.
-* Display an image of the die face that was rolled.
-* Display each player's score, the current turn's score, and indicate who's turn it is.
 * Your GUI elements cannot be entirely in a single row or column.
 * Use at least one each of `Frame`, `Label`, and `Button`.
+* Have 2 working buttons; one to roll, one to hold.
+* Display `roll.gif` to start the game.
+* Display `hold.gif` when the player decides to hold.
+* Display an image of the die face that was rolled.
+* Display each player's score, the current turn's score, and indicate who's turn it is.
 
 **All of the code you submit must be your own.  You may use the internet for looking up commands or syntax, but you should not be using code that is not yours.**
 
 ## Due Date and Time
 
 This is due March 9th at 11:59 pm.  **I will grade the last commit that occurs before March 9th at 11:59 pm.**  You will have all of classtime until the due date to work and ask questions.  You have 1 week to work on this; being absent doesn't give you extra time.  If you encounter extreme circumstances, then you must communicate with me.
+
+## Late Submissions
+
+Any commit after the due date and time will recieve -20%.  If you want me to grade a late submission you must tell me.  Otherwise, I will look for the last commit before the due date and time.
